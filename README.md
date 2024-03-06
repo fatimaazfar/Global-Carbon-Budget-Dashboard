@@ -27,6 +27,7 @@ The project's visualizations provide profound insights into the dynamics of carb
 - **Emissions to Sinks Ratio**: Reflects on the balance between emissions and the capacity of sinks.
 - **Atmospheric and Emissions Growth Changes**: Investigates the fluctuations in atmospheric CO2 and annual emissions growth rates.
 - **Sink Efficiency**: Assesses the efficiency of carbon sinks over time, underlining their role in mitigating climate change.
+[View Detailed Report](Report.pdf)
 
 ## Final Dashboard in Google Looker Studio
 The Google Looker Studio dashboard encapsulates the essence of our findings through interactive and intuitive visualizations. It offers a user-friendly interface to explore complex datasets, making it easier to understand the intricate relationships between various factors contributing to global carbon budgets.
