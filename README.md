@@ -1,3 +1,4 @@
+![GCB-Region+Country](GCB.png)
 # Global Carbon Budget Visualization Project - SOFTEC 2024 Winner
 
 ## Overview
